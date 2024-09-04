@@ -1,0 +1,28 @@
+body{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.my-swal-container {
+  background-color: red;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+}
+.my-swal-title{
+  font-family: 'Montserrat", sans-serif'  !important;
+}
+.my-swal-text{
+  font-family: 'Montserrat", sans-serif' !important;
+}
+.custom-icon-color {
+  color: #13C5A4 !important;
+  /* background-color: red;  */
+}
+.my-swal-confirm-button{
+  background-color: #13C5A4 !important;
+}
+
+.my-swal-cancel-button{
+  background-color: #ADD2CB !important;
+}

@@ -1,0 +1,16 @@
+/* Estilos básicos para la tabla */
+
+  
+  /* Botón para abrir PDF */
+.btn-open-pdf {
+  background-color: #5bbf9a;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 14px;
+}
+  
+  
+  

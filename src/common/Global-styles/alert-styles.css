@@ -1,0 +1,19 @@
+.my-swal-container {
+  background-color: red;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+}
+.my-swal-title{
+  font-family: 'Montserrat", sans-serif';
+}
+.my-swal-text{
+  font-family: 'Montserrat", sans-serif';
+}
+
+.my-swal-confirm-button{
+  background-color: #13C5A4 ;
+}
+
+.my-swal-cancel-button{
+  background-color: #ADD2CB ;
+}

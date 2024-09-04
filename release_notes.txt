@@ -1,0 +1,9 @@
+NOVEDADES Version 0.46.0
+- VAlidacion de token y redirigir a home
+
+
+
+
+
+
+
